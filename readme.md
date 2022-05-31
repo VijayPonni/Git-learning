@@ -98,9 +98,7 @@
 ## git help ##
 
  * git config --help --> to get help from git .
- * git config -h --> Shortcut to get help.
-
-
+ * git config -h --> Shortcut to get hel
 
 
 
